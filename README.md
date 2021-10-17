@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/Mechzopikku">Mechzopikku</a> to m
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Mechzopikku/pikkumwon(https://chat.whatsapp.com/JtB4JCKzOrJAcpmSkHho2G)
+  (https://github.com/Mechzopikku/pikkumwon (https://chat.whatsapp.com/JtB4JCKzOrJAcpmSkHho2G)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mechzopikku&repo=PublicBot&theme=nightowl)](https://github.com/Mechzopikku/PublicBot)
